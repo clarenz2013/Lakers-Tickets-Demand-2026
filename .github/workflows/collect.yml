@@ -27,3 +27,4 @@ jobs:
           git add data/raw/price_snapshots.csv
           git commit -m "Daily price snapshot" || echo "No changes"
           git push
+        
